@@ -1,1 +1,1 @@
-# A Site for Showcasing my AI Art
+## A Site for Showcasing my AI Art
